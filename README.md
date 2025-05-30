@@ -10,6 +10,19 @@
 ### 栈与队列
 
 ## 解题思路
+### 分治思想 Divide and Conquer
+- [合并k个有序链表](Problems/MergeKLists.md)
 
-## 常见算法题
+### 动态规划 Dynamic Programming
 
+### 回溯法 Backtracking
+
+### 贪心算法 Greedy
+
+### 双指针法 Two Pointer
+
+### 滑动窗口 Sliding Window
+
+### 深度优先搜索 DFS
+
+### 广度优先搜索 BFS
